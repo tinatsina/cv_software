@@ -1,0 +1,31 @@
+Software Quality Engineer, 80-100% (f/m/x)
+Klaus, Austria (Office Only)
+Job Description
+We are an agile team of developers and testers that is developing and maintaining a wide variety of highly usable, state-of-the-art embedded devices.
+
+What's it all about?
+
+You participate in the whole development process from defining test cases up to ensuring the highest quality
+You design, program and maintain multi-platform automated tests and you develop requirements for it
+You execute system and verification tests along with supervising the release cycle
+You extend and maintain our test and continuous integration frameworks
+You continuously improve our development process, our DevOps approach and our products
+
+What are we looking for?
+
+You have successfully completed your education in information technology or electrical engineering (technical college or studies) and have some years of relevant working experience
+You love programming and have experience in Python and/or C#
+You enjoy working independently and in a structured and precise way
+Linux, HIL, GIT and SSH are familiar terms for you
+You are interested in complex technical systems, you pay attention to detail and you are able to think out of the box
+You like to communicate in English
+
+What makes us a great place to work?
+A unique organizational culture based on trust, personal freedom and individual responsibility
+A work environment with a strong focus on sustainability, diversity and flexible time management
+State-of-the-art infrastructure and professional teams who enjoy their work
+A creative and international environment in which innovative ideas are valued
+An in-house kitchen team and many other benefits for your work/life balance
+
+
+Passion and motivation are just as important to us as the job profile. If the position appeals to you, even if you don't fulfil every requirement, then convince us with your enthusiasm. Your commitment counts!
